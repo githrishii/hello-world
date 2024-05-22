@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>User Registration for DevOps Learning Students</h1>
+    <h1>New User Registration for DevOps Learning Students</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -32,6 +32,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-
+  <h1>Everything is working fine now</h1>
   
 </form>
